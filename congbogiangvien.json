@@ -1,0 +1,488 @@
+[{
+    "nam1":2022
+},{
+    "tua":"Vietnamese Sentiment Analysis under Limited Training Data Based on Deep Neural Networks",
+    "doi":"https://doi.org/10.1155/2022/3188449",
+    "tapchi":"Complexity",
+    "tacgia":"Huu-Thanh Duong, Tram-Anh Nguyen-Thi, Vinh Truong Hoang"
+},{
+    "tua":"Implementation and Analysis of AI-Based Gesticulation Control for Impaired People",
+    "doi":"https://doi.org/10.1155/2022/4656939",
+    "tapchi":"S Nivash, EN Ganesh, T Manikandan, Arvind Dhaka, Amita Nandal, Vinh Truong Hoang, Adarsh Kumar, Assaye Belay",
+    "tacgia":"Wireless Communications and Mobile Computing"
+},{
+    "tua":"Transfer Learning-Based Automatic Hurricane Damage Detection Using Satellite Images. Electronics 2022, 11, 1448",
+    "doi":"https://doi.org/10.3390/electronics110914488",
+    "tapchi":"Electronics 2022",
+    "tacgia":"S Kaur, S Gupta, S Singh, VT Hoang, S Almakdi, T Alelyani, A Shaikh"
+},{
+    "tua":"Yield Estimation of Guava Fruit using U-Net Architecture",
+    "doi":"https://doi.org/10.1109/ICOEI53556.2022.9776898",
+    "tapchi":"2022 6th International Conference on Trends in Electronics and Informatics (ICOEI)",
+    "tacgia":"Mohammad Ibrahim Khaleel, Paineni Gowtham Sai, Adabala Uday Raghavendra Kumar, Purushothamman Raja, Vinh Truong Hoang"
+},{
+    "tua":"Rose Plant Leaves: Disease Detection and Pesticide Management using CNN",
+    "doi":"https://doi.org/10.1109/ICOEI53556.2022.9776898",
+    "tapchi":"2022 6th International Conference on Trends in Electronics and Informatics (ICOEI)",
+    "tacgia":"Mohammad Ibrahim Khaleel, Paineni Gowtham Sai, Adabala Uday Raghavendra Kumar, Purushothamman Raja, Vinh Truong Hoang"
+},{
+    "tua":"A Comprehensive Review of Recent Deep Learning Techniques for Human Activity Recognition",
+    "doi":"https://doi.org/10.1155/2022/8323962",
+    "tapchi":"Computational Intelligence and Neuroscience",
+    "tacgia":"Viet-Tuan Le, Kiet Tran-Trung, Vinh Truong Hoang"
+},{
+    "tua":"Computational Methods for Automated Analysis of Malaria Parasite Using Blood Smear Images: Recent Advances",
+    "doi":"https://doi.org/10.1155/2022/3626726",
+    "tapchi":"Computational Intelligence and Neuroscience",
+    "tacgia":"Shankar Shambhu, Deepika Koundal, Prasenjit Das, Vinh Truong Hoang, Kiet Tran-Trung, Hamza Turabieh"
+},{
+    "tua":"Impact of Music in Males and Females for Relief from Neurodegenerative Disorder Stress",
+    "doi":"https://doi.org/10.1155/2022/3080437",
+    "tapchi":"Contrast Media & Molecular Imaging",
+    "tacgia":"Nilima Salankar, Anjali Mishra, Deepika Koundal, Vinh Truong Hoang, Kiet Tran-Trung, Atef Zaguia, Assaye Belay"
+},{
+    "tua":"Neurogenerative Disease Diagnosis in Cepstral Domain Using MFCC with Deep Learning",
+    "doi":"https://doi.org/10.1155/2022/4364186",
+    "tapchi":"Computational and Mathematical Methods in Medicine",
+    "tacgia":"Saleh Alghamdi Norah, Zakariah Mohammed, Truong Hoang Vinh, Mamun Elahi Mohammad"
+},{
+    "tua":"Optimization of Mental Health-Related Critical Barriers in IoT-Based Teaching Methodology",
+    "doi":"https://doi.org/10.1155/2022/4602072",
+    "tapchi":"Computational Intelligence and Neuroscience",
+    "tacgia":"Juneja Abhinav, Hamza Turabieh, Upadhyay Hemant, Kiros Bitsue Zelalem, Truong Hoang Vinh, Tran Trung Kiet"
+},{
+    "tua":"A Computational Linguistic Approach for Gender Prediction Based on Vietnamese Names",
+    "doi":"https://doi.org/10.1155/2022/6570228",
+    "tapchi":"Mobile Information Systems",
+    "tacgia":"Thien Ho Huong, Kiet Tran-Trung, Vinh Truong Hoang"
+},{
+    "tua":"DeepO: an ontology-based deep learning system for disease prediction",
+    "doi":"https://doi.org/10.1504/IJIIDS.2022.121897",
+    "tapchi":"International Journal of Intelligent Information and Database Systems",
+    "tacgia":"Nguyễn Thị Phương Trang; Nguyễn Lưu Thuỳ Ngân; Dương Trọng Hải"
+},{
+    "tua":"A Proposed Load Balancer Using Naïve Bayes to Enhance Response Time on Cloud Computing",
+    "doi":"https://doi.org/10.23919/ICACT53585.2022.9728946",
+    "tapchi":"2022 24th International Conference on Advanced Communication Technology (ICACT)",
+    "tacgia":"Tác giả: Cong Hung Tran, Duy Tien, Hieu Ngoc Le"
+},{
+    "tua":"Improving Morphology and Recurrent Residual Refinement Network to Classify Hypertension in Retinal Vessel Image",
+    "doi":"https://doi.org/10.1007/978-3-030-92942-8_2",
+    "tapchi":"7th EAI International Conference on Nature of Computation and Communication",
+    "tacgia":"Vo Thi Hong Tuyet, Nguyen Thanh Binh"
+},{
+    "tua":"The Impacts of the Contextual Substitutions in Vietnamese Micro-text Augmentation",
+    "doi":"https://doi.org/10.1007/978-3-030-92942-8_3",
+    "tapchi":"International Conference on Nature of Computation and Communication",
+    "tacgia":"Huu-Thanh Duong, Trung-Kiet Tran"
+},{
+    "tua":"An Approach for Multiple Choice Question Answering System",
+    "doi":"https://doi.org/10.1007/978-3-030-92942-8_7",
+    "tapchi":"International Conference on Nature of Computation and Communication",
+    "tacgia":"Dinh-Huy Vo, Anh-Khoa Do-Vo, Tram-Anh Nguyen-Thi, Huu-Thanh Duong"
+},{
+    "nam1":2021
+},{
+    "tua":"A new local image descriptor based on local and global color features for medicinal plant images classification",
+    "doi":"https://doi.org/10.1109/DASA53625.2021.9682391",
+    "tapchi":"2021 International Conference on Decision Aid Sciences and Application (DASA)",
+    "tacgia":"Trung Nguyen Quoc, Vinh Truong Hoang"
+},{
+    "tua":"Human ear-side detection based on YOLOv5 detector and deep neural networks",
+    "doi":"https://doi.org/10.1109/DASA53625.2021.9682306",
+    "tapchi":" 2021 International Conference on Decision Aid Sciences and Application (DASA)",
+    "tacgia":"Huy Nguyen Quoc; Vinh Truong Hoang"
+},{
+    "tua":"A Revisit Histogram of Oriented Descriptor for Facial Color Image Classification Based on Fusion of Color Information",
+    "doi":"https://doi.org/10.1155/2021/6296505",
+    "tapchi":"Journal of Sensors",
+    "tacgia":"Huy Nguyen-Quoc; Vinh Truong Hoang"
+},{
+    "tua":"Real-Time Human Ear Detection Based on the Joint of Yolo and RetinaFace",
+    "doi":"https://doi.org/10.1155/2021/7918165",
+    "tapchi":"Complexity",
+    "tacgia":"Huy Nguyen-Quoc; Vinh Truong Hoang"
+},{
+    "tua":"Object contour in medical images based on saliency map combined with active contour model",
+    "doi":"https://doi.org/10.1007/978-3-030-75506-5_58",
+    "tapchi":"Proceedings of the 8th International Conference on the Development of Biomedical Engineering, Springer",
+    "tacgia":"Vo Hoang Thien, Vo Thi Hong Tuyet, Nguyen Thanh Binh"
+},{
+    "tua":"Unsupervised gender prediction based on deep facial features",
+    "doi":"https://doi.org/10.1109/ZINC52049.2021.9499250",
+    "tapchi":"Innovation in Consumer Technologies Conference",
+    "tacgia":"Mai Tuong Vi; Le Thanh Dat; Vinh Truong Hoang; Tram-Anh Nguyen-Thi"
+},{
+    "tua":"CNN Parameter Adjustment for Brain Tumor Classification",
+    "doi":"https://doi.org/10.1007/978-981-16-2008-9_1",
+    "tapchi":"Advances in Intelligent Systems and Computing: Applied Information Processing Systems",
+    "tacgia":"Vinh Truong Hoang, Toan Pham Ho"
+},{
+    "tua":"Ensemble feature selection approach based on feature ranking for rice seed images classification",
+    "doi":"https://doi.org/10.15598/aeee.v18i3.3726",
+    "tapchi":"Advances in Electrical and Electronic Engineering, vol. 18, no. 3, 2020",
+    "tacgia":"D. Lam Tran Tuan, T. Surinwarangkoon, K. Meethongjan , V. Truong Hoang"
+},{
+    "tua":"Text recognition for Vietnamese identity card based on deep features network",
+    "doi":"https://doi.org/10.1007/s10032-021-00363-7",
+    "tapchi":"International Journal on Document Analysis and Recognition (IJDAR) (2021)",
+    "tacgia":"D. Phan Van Hoai, H.T Duong and V. Truong Hoang"
+},{
+    "tua":"MapReduce-based Improved Random Forest Model for Massive Educational Data Processing and Classification",
+    "doi":"https://doi.org/10.1007/s11036-020-01699-w",
+    "tapchi":"Mobile Networks and Applications",
+    "tacgia":"W. Xu, V. Truong Hoang"
+},{
+    "tua":"Discrimination of Golgi proteins through efficient exploitation of hybrid feature spaces coupled with SMOTE and ensemble of support vector machine",
+    "doi":"https://doi.org/10.1109/ACCESS.2020.3037343",
+    "tapchi":"IEEE Access",
+    "tacgia":"M. Tahir, F. Khan, M. K. I. Rahmani and V. Truong Hoang"
+},{
+    "tua":"A Constrained Feature Selection Approach based on Feature Clustering and Hypothesis Margin Maximization",
+    "doi":"https://doi.org/10.1155/2021/5554873",
+    "tapchi":"Computational Intelligence and Neuroscience",
+    "tacgia":"S. Hijazi; V. Truong Hoang"
+},{
+    "nam1":2020
+},{
+    "tua":"Robust Head Pose Estimation Using Extreme Gradient Boosting Machine on Stacked Autoencoders Neural Network",
+    "doi":"https://doi.org/10.1109/access.2019.2962974",
+    "tapchi":"EEE Access, vol. 8, pp. 3687-3694",
+    "tacgia":"Thanh Vo, Trang Nguyen, C.T.Le"
+},{
+    "tua":"A Novel Clustering-based Class-association Rule Mining Method for Handling Class-Imbalanced Datasets",
+    "doi":"https://doi.org/10.18178/wcse.2020.02.002",
+    "tapchi":"A Novel Clustering-based Class-association Rule Mining Method for Handling Class-Imbalanced Datasets",
+    "tacgia":"Tien-Dung Phan, Thanh-Tho Quan, Thi-Kim-Anh Vo"
+},{
+    "tua":"Approaching human vision perception to designing visual graph in data visualization",
+    "doi":"https://doi.org/10.1002/cpe.5722",
+    "tapchi":"Concurrency and Computation: Practice and Experience, pp. 1-17, 2020",
+    "tacgia":"Phuoc Vinh Tran,Truong Xuan Le"
+},{
+    "tua":"Integrating Retinal Variables into Graph Visualizing Multivariate Data to Increase Visual Features",
+    "doi":"https://doi.org/10.1007/978-3-030-34365-1_7",
+    "tapchi":"8th EAI International Conference on Context-Aware Systems and Applications",
+    "tacgia":"Hong Thi Nguyen, Lieu Thi Le, Cam Thi Ngoc Huynh, Thuan Thi My Pham, Anh Thi Van Tran, Dang Van Pham & Phuoc Vinh Tran"
+},{
+    "tua":"An Approach of Taxonomy of Multidimensional Cubes Representing Visually Multivariable Data",
+    "doi":"https://doi.org/10.1007/978-3-030-34365-1_8",
+    "tapchi":"8th EAI International Conference on Context-Aware Systems and Applications",
+    "tacgia":"Hong Thi Nguyen, Truong Xuan Le, Phuoc Vinh Tran & Dang Van Pham"
+},{
+    "tua":"Improving retinal vessels segmentation via deep learning in salient region",
+    "doi":"https://doi.org/10.1007/s42979-020-00267-z",
+    "tapchi":"SN COMPUT. SCI.",
+    "tacgia":"Vo Thi Hong Tuyet, Nguyen Thanh Binh"
+},{
+    "tua":"Medical image segmentation based on fully convolutional network and minimizing energy between curves",
+    "doi":"https://doi.org/10.18421/TEM94-05",
+    "tapchi":"TEM JOURNAL - Technology, Education, Management, Informatics",
+    "tacgia":"Vo Thi Hong Tuyet, Nguyen Thanh Binh"
+},{
+    "tua":"Ứng dụng 'Ma trận thành phần' nhằm đánh giá mức độ một Đại Học Thông Minh (Smart University)",
+    "doi":"",
+    "isbn":"978-604-922-910-7",
+    "tapchi":"Hội thảo 'Quá trình chuyển đổi số của nền kinh tế VN - Công Nghệ-Thị Trường-Chính sách'",
+    "tacgia":"Trương Việt Phương, Trần Thị Thu Hà, Nguyễn Tiến Đạt"
+},{
+    "tua":"Brent Oil Price Prediction Using Bi-LSTM Network",
+    "doi":"https://doi.org/10.32604/iasc.2020.013189",
+    "tapchi":"Intelligent Automation & Soft Computing",
+    "tacgia":"Anh H. Vo, Trang Nguyen, Tuong Le"
+},{
+    "tua":"Discrimination of Golgi proteins through efficient exploitation of hybrid feature spaces coupled with SMOTE and ensemble of support vector machine,",
+    "doi":"https://doi.org/10.1109/ACCESS.2020.3037343",
+    "tapchi":"IEEE Access",
+    "tacgia":"M. Tahir, F. Khan, M. K. I. Rahmani and V. T. Hoang"
+},{
+    "tua":"Ensemble feature selection approach based on feature ranking for rice seed images classification",
+    "doi":"https://doi.org/10.15598/aeee.v18i3.3726",
+    "tapchi":"Advances in Electrical and Electronic Engineering",
+    "tacgia":"D. Lam Tran Tuan, T. Surinwarangkoon, K. Meethongjan , V. Truong Hoang"
+},{
+    "tua":"Medicinal Plant identification in the wild by using CNN",
+    "doi":"https://doi.org/10.1109/ICTC49870.2020.9289480",
+    "tapchi":"2020 International Conference on Information and Communication Technology Convergence",
+    "tacgia":"T. Nguyen Quoc, V. Truong Hoang"
+},{
+    "tua":"Gender recognition based on ear images: a comparative experimental study",
+    "doi":"https://doi.org/10.1109/ISRITI51436.2020.9315366",
+    "tapchi":"3RD INTERNATIONAL SEMINAR ON RESEARCH OF INFORMATION TECHNOLOGY AND INTELLIGENT SYSTEMS",
+    "tacgia":"H. Nguyen Quoc, V. Truong Hoang"
+},{
+    "nam1":2019
+},{
+    "tua":"A Survey on the Multiple Classifier for New Benchmark Dataset of Vietnamese News Classification",
+    "doi":" https://doi.org/10.1109/KST.2019.8687509",
+    "tapchi":"10th International Conference on Knowledge and Smart Technology",
+    "tacgia":"H.T Duong; V. Truong Hoang"
+},{
+    "tua":"Question answering based on ensemble classifier for university enrolment advising",
+    "doi":"https://doi.org/10.1109/KST.2019.8687616",
+    "tapchi":"10th International Conference on Knowledge and Smart Technology",
+    "tacgia":"H.T Duong; V. Truong Hoang"
+},{
+    "tua":"Dimensionality Reduction Based on Feature Selection for Rice Varieties Recognition",
+    "doi":"https://doi.org/10.1109/INCIT.2019.8912121",
+    "tapchi":"4th International Conference on Information Technology",
+    "tacgia":"H.T Duong; V. Truong Hoang"
+},{
+    "tua":"Data Augmentation Based on Color Features for Limited Training Texture Classification",
+    "doi":"https://doi.org/10.1109/INCIT.2019.8911934",
+    "tapchi":"4th International Conference on Information Technology",
+    "tacgia":"H.T Duong, V. Truong Hoang"
+},{
+    "tua":"Feeding Convolutional Neural Network by hand-crafted features based on Enhanced Neighbor-Center Different Image for color texture classification",
+    "doi":"https://doi.org/10.1109/MAPR.2019.8743528",
+    "tapchi":"2nd International Conference on Multimedia Analysis and Pattern Recognition",
+    "tacgia":"D. Phan Van Hoai; V. Truong Hoang"
+},{
+    "tua":"Kinship Verification based on Local Binary Pattern features coding in different color space",
+    "doi":"https://doi.org/10.1109/ICT.2019.8798781",
+    "tapchi":"26th International Conference on Telecommunications",
+    "tacgia":"T. Nguyen Van; V. Truong Hoang"
+},{
+    "tua":"LBP-based edge information for color texture classification",
+    "doi":"https://doi.org/10.1007/978-3-030-30149-1_19",
+    "tapchi":"5th EAI International Conference on Industrial Networks and Intelligent Systems",
+    "tacgia":"D. Phan Van Hoai; V. Truong Hoang"
+},{
+    "tua":"EarVN1.0: A new large-scale ear images dataset in the wild",
+    "doi":"https://doi.org/10.17632/yws3v3mwx3.3",
+    "tapchi":"Data in Brief, vol. 27, p. 104630",
+    "tacgia":"V. Truong Hoang"
+},{
+    "tua":"Early and late features fusion for Kinship Verification based on constraint selection",
+    "doi":"https://doi.org/10.1109/APCC47188.2019.9026554",
+    "tapchi":"The 25th Asia-Pacific Conference on Communications",
+    "tacgia":"T. Nguyen Van; V. Truong Hoang"
+},{
+    "tua":"Integrating Retinal Variables into Graph Visualizing Multivariate Data to Increase Visual Features",
+    "doi":"https://doi.org/10.1007/978-3-030-34365-1_7",
+    "tapchi":"8th EAI International Conference on Context-Aware Systems and Applications - ICCASA 2019",
+    "tacgia":"Nguyễn Thị Hồng; Lê Thị Liễu; Huỳnh Thị Ngọc Cẩm; Phạm Thị Mỹ Thuận; Trần Thị Vân Anh; Phạm Văn Đăng; Trần Vĩnh Phước"
+},{
+    "tua":"An Approach of Taxonomy of Multidimensional Cubes Representing Visually Multivariable Data",
+    "doi":"https://doi.org/10.1007/978-3-030-34365-1_8",
+    "tapchi":"8th EAI International Conference on Context-Aware Systems and Applications - ICCASA 2019",
+    "tacgia":"Nguyễn Thị Hồng; Lê Xuân Trường; Trần Vĩnh Phước; Phạm Văn Đăng"
+},{
+    "tua":"A System and Model of Visual Data Analytics Related to Junior High School Students",
+    "doi":"https://doi.org/10.1007/978-3-030-34365-1_9",
+    "tapchi":"8th EAI International Conference on Context-Aware Systems and Applications - ICCASA 2019",
+    "tacgia":"Phạm Văn Đăng - Trần Vĩnh Phước"
+},{
+    "tua":"Pancreas segmentation in medical images based on gaussian mixture model in bandelet domain",
+    "doi":"https://doi.org/10.1007/978-981-13-5859-3_86",
+    "tapchi":"International Federation of Medical and Biological Engineering (IFMBE Proceedings)",
+    "tacgia":" Nguyen Huu The; Vo Thi Hong Tuyet; Nguyen Mong Hien; Nguyen Thanh Binh"
+},{
+    "tua":"Edge detection in low-quality medical images based on Augmented Lagrangian Method and B-spline",
+    "doi":"https://doi.org/10.1007/978-981-13-5859-3_79",
+    "tapchi":"International Federation of Medical and Biological Engineering (IFMBE Proceedings)",
+    "tacgia":"Vo Thi Hong Tuyet; Nguyen Thanh Binh; Nguyen Chi Thanh"
+},{
+    "tua":"Adaptive content-based medical image retrieval based on local features extraction in shearlet domain",
+    "doi":"https://doi.org/10.4108/eai.18-3-2019.159351",
+    "tapchi":"EAI Endorsed Transactions on Context-aware Systems and Applications",
+    "tacgia":"Vo Thi Hong Tuyet; Nguyen Mong Hien; Pham Bao Quoc; Nguyen Thanh Son; Nguyen Thanh Binh"
+},{
+    "tua":"Object contour based on improving region growing method and context border condition",
+    "doi":"https://doi.org/10.1002/cpe.5472",
+    "tapchi":"Concurrency and Computation: Practice and Experience Journal",
+    "tacgia":"Nguyen Thanh Binh, Vo Thi Hong Tuyet, Nguyen Chi Thanh"
+},{
+    "tua":"Retinal vessels segmentation by improving salient region combined with sobel operator condition",
+    "doi":"https://doi.org/10.1007/978-3-030-35653-8_39",
+    "tapchi":"The 6th International conference on Future Data and Security Engineering 2019",
+    "tacgia":"Nguyen Thanh Binh; Vo Thi Hong Tuyet; Nguyen Mong Hien; Nguyen Thanh Thuy"
+},{
+    "tua":"KHAI THÁC DỮ LIỆU NHẰM PHÁT HIỆN VẾT NỨT ĐƯỜNG ỐNG NHÀ MÁY ĐIỆN NGUYÊN TỬ",
+    "doi":"#",
+    "tapchi":"REV-ECIT2019 The 22nd National Conference on Electronics, Communications and Information Technology",
+    "tacgia":"Nguyễn Quốc Trung; Nguyễn Tiến Đạt"
+},{
+    "tua":"A General Framework for Multiple Instance Learning",
+    "doi":"#",
+    "tapchi":"14th International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2019)",
+    "tacgia":"Le Ngoc Bui; Bich_Le Thi Do; Dat Tien Nguyen"
+},{
+    "tua":"OptiR2: Dynamic programing for discretisation of continuous data",
+    "doi":"#",
+    "tapchi":"14th International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2019)",
+    "tacgia":"Thanh_Tam Thi Nguyen; Bich Le Thi Do; Dat Tien Nguyen"
+},{
+    "tua":"CẢI TIẾN KHO DỮ LIỆU QUẢN LÝ BỆNH VIỆN BANG TÂY ÚC",
+    "doi":"",
+    "isbn":"978-604-73-7348-2",
+    "tapchi":"ISBM '19 Hê Thống Thông Tin trong Kinh Doanh và Quản Lý",
+    "tacgia":"Nguyễn Tiến Đat; Đỗ Thị Bích Lê; Nguyễn Đăng Cao"
+},{
+    "tua":"KHAI THÁC DỮ LIỆU QUẢN LÝ BỆNH VIỆN BANG TÂY ÚC ĐỂ HỖ TRỢ CÔNG TÁC CẤP CỨU VÀ ĐIỀU TRỊ",
+    "doi":"",
+    "isbn":"978-604-73-7348-2",
+    "tapchi":"ISBM '19 Hê Thống Thông Tin trong Kinh Doanh và Quản Lý",
+    "tacgia":"Nguyễn Tiến Đat; Đỗ Thị Bích Lê; Nguyễn Đăng Cao"
+},{
+    "tua":"A Vietnamese sentiment analysis system based on multiple classifiers with enhancing lexicon features",
+    "doi":"https://doi.org/10.1007/978-3-030-30149-1_20",
+    "tapchi":"EAI INISCOM 2019 - 5th EAI International Conference on Industrial Networks and Intelligent System",
+    "tacgia":"Bich-Tuyen Nguyen-Thi; Huu-Thanh Duong" 
+},{
+    "tua":"One-Document Training for Vietnamese Sentiment Analysis",
+    "doi":"https://doi.org/10.1007/978-3-030-34980-6_21",
+    "tapchi":"The 8th International Conference on Computational Data & Social Networks (CSoNet 2019)",
+    "tacgia":"Dang-Khoa Nguyen-Nhat; Huu-Thanh Duong"
+},{
+    "tua":"Data Augmentation Based on Color Features for Limited Training Texture Classification",
+    "doi":"https://doi.org/10.1109/INCIT.2019.8911934",
+    "tapchi":"2019 4th International Conference on Information Technology (InCIT)",
+    "tacgia":"Huu-Thanh Duong; Vinh Truong Hoang"
+},{
+    "tua":"Dimensionality Reduction Based on Feature Selection for Rice Varieties Recognition",
+    "doi":"https://doi.org/10.1109/INCIT.2019.8912121",
+    "tapchi":"2019 4th International Conference on Information Technology (InCIT)",
+    "tacgia":"Huu-Thanh Duong; Vinh Truong Hoang"
+},{
+    "tua":"Edge detection in low-quality medical images based on Augmented Lagrangian Method and B-spline",
+    "doi":"https://doi.org/10.1007/978-981-13-5859-3_79",
+    "tapchi":"International Federation of Medical and Biological Engineering (IFMBE Proceedings)",
+    "tacgia":"Vo Thi Hong Tuyet; Nguyen Thanh Binh; Nguyen Chi Thanh"
+},{
+    "tua":"Object contour based on improving region growing method and context border condition",
+    "doi":"https://doi.org/10.1002/cpe.5472",
+    "tapchi":"Concurrency and Computation: Practice and Experience Journal",
+    "tacgia":"Nguyen Thanh Binh; Vo Thi Hong Tuyet; Nguyen Chi Thanh"
+},{
+    "tua":"Race Recognition Using Deep Convolutional Neural Networks",
+    "doi":"https://doi.org/10.3390/sym10110564",
+    "tapchi":"Symmetry 2018, 10, 564",
+    "tacgia":"Thanh Vo; Trang Nguyen; C.T.Le"
+},{
+    "tua":"A hybrid framework for smile detection in class imbalance scenarios",
+    "doi":"https://doi.org/10.1007/s00521-019-04089-w",
+    "tapchi":"Neural Computing and Applications (2019), 1-10.",
+    "tacgia":"Thanh Vo; Trang Nguyen; C.T.Le"
+},{
+    "tua":"A method of ontology integration for designing Intelligent Problem Solvers",
+    "doi":"https://doi.org/10.3390/app9183793",
+    "tapchi":"Applied Sciences",
+    "tacgia":"Nhon V. Do; Hien D. Nguyen; Thanh T. Mai"
+},{
+    "tua":"A method for designing domain-specific document retrieval systems using semantic indexing",
+    "doi":"https://doi.org/10.14569/IJACSA.2019.0101063",
+    "tapchi":"International Journal of Advanced Computer Science and Applications",
+    "tacgia":"Thanh Thuong T. Huynh; TruongAn PhamNguyen; Nhon V. Do"
+},{
+    "tua":"A Method for Designing the Intelligent System in Learning of Algorithms, 18th International Conference on Intelligent Software Methodologies",
+    "doi":"https://doi.org/10.3233/FAIA190088",
+    "tapchi":"18th International Conference on Intelligent Software Methodologies,Tools, and Techniques (SOMET 2019)",
+    "tacgia":"Duyen T. A. Vu; Nhon V. Do"
+},{
+    "tua":"A Method for Designing the Intelligent System in Learning of Algorithms, 18th International Conference on Intelligent Software Methodologies, Tools, and Techniques (SOMET 2019)",
+    "doi":"https://doi.org/10.3233/FAIA190088",
+    "tapchi":"18th International Conference on Intelligent Software Methodologies,Tools, and Techniques (SOMET 2019)",
+    "tacgia":"Hien D. Nguyen; Nhon V. Do; Thanh T. Mai; Vuong T. Pham"
+},{
+    "tua":"A method for Representation the Knowledge of Functions and Operators and Application",
+    "doi":"https://doi.org/10.3233/FAIA190088",
+    "tapchi":"Proceedings of 3rd International Conference on Machine Learning and Soft Computing (ICMLSC 2019)",
+    "tacgia":"Hien D. Nguyen; Son T. Luu; Nhon V. Do"
+},{
+    "tua":"A Consulting System for Estimating Costs of an Information Technology Hardware Project based on Law of Public Investment",
+    "doi":"https://doi.org/10.1109/ICSSE.2019.8823398",
+    "tapchi":"Proceedings of 7th IEEE International Conference on System Science and Engineering (ICSSE 2019)",
+    "tacgia":"Huan Pham Do; Nhon V. Do; Hien D. Nguyen"
+},{
+    "tua":"Local binary pattern based on gradient image for bark image classification",
+    "doi":"https://doi.org/10.1117/12.2522093",
+    "tapchi":"The 10th International Conference on Signal Processing Systems (ICSPS 2018)",
+    "tacgia":"Tuan Le-Viet; Vinh Truong Hoang"
+},{
+    "nam1":2018
+},{
+    "tua":"Unsupervised LBP histogram selection for color texture classification via sparse representation",
+    "doi":"https://doi.org/10.1109/ICICSP.2018.8549724",
+    "tapchi":"International Conference on Information Communication and Signal Processing (IEEE-ICSP’18)",
+    "tacgia":"Trương Hoàng Vinh"
+},{
+    "tua":"Multi-color space local binary pattern-based feature selection for texture classification",
+    "doi":"https://doi.org/10.1117/1.JEI.27.1.011010",
+    "tapchi":"Journal of Electronic Imaging",
+    "tacgia":"V. Truong Hoang; A. Porebski; N. Vandenbroucke; D. Hamad"
+},{
+    "tua":"On comparing color spaces for fabric defect classification based on local binary patterns",
+    "doi":"https://doi.org/10.1117/1.JEI.27.1.011010",
+    "tapchi":"IEEE 3rd International Conference on Signal and Image Processing",
+    "tacgia":"V. Truong Hoang; A. Rebhi "
+},{
+    "tua":"Local Binary Pattern Based on Image Gradient for Bark Image Classification",
+    "doi":"https://doi.org/10.1117/12.2522093",
+    "tapchi":"10th International Conference on Signal Processing Systems",
+    "tacgia":"T. Le-Viet; V. Truong Hoang"
+},{
+    "tua":"Visually Analyzing Evolution of Geographic Objects at Different Levels of Details Over Time",
+    "doi":"https://doi.org/10.1007/978-3-030-06152-4_9",
+    "tapchi":"7th EAI International Conference on Context-Aware Systems and Applications - ICCASA 2018",
+    "tacgia":"Phạm Văn Đăng; Trần Vĩnh Phước"
+},{
+    "tua":"Two-stage Approach to Classifying Multidimensional Cubes for Visualization of Multivariate Data",
+    "doi":"https://doi.org/10.1007/978-3-030-06152-4_7",
+    "tapchi":"7th EAI International Conference on Context-Aware Systems and Applications - ICCASA 2018",
+    "tacgia":"Nguyễn Thị Hồng; Phạm Thị Mỹ Thuận; Nguyễn Thị Ánh Tuyết; Trần Thị Vân Anh; Trần Vĩnh Phước; Phạm Văn Đăng"
+},{
+    "tua":"Object Contour In Low Quality Medical Images In Curvelet Domain",
+    "doi":"https://doi.org/10.14569/IJACSA.2018.090409",
+    "tapchi":"International Journal of Advanced Computer Science and Applications",
+    "tacgia":"Vo Thi Hong Tuyet; Nguyen Thanh Binh"
+},{
+    "tua":"Pancreas Contour Detection Based On Shearlet Domain In Low Quality Medical Images",
+    "doi":"https://doi.org/10.4108/eai.18-6-2018.156319",
+    "tapchi":"EAI Endorsed Transactions on Context-aware Systems and Applications",
+    "tacgia":"Nguyen Thanh Binh; Nguyen Mong Hien; Pham Bao Quoc; Vo Thi Hong Tuyet"
+},{
+    "tua":"A Survey on the Multiple Classifier for New Benchmark Dataset of Vietnamese News Classification",
+    "doi":"https://doi.org/10.1109/KST.2019.8687509",
+    "tapchi":"2019 11th International Conference on Knowledge and Smart Technology (KST)",
+    "tacgia":"Huu-Thanh Duong; Vinh Truong Hoang"
+},{
+    "tua":"Question Answering Based on Ensemble Classifier for University Enrolment Advising",
+    "doi":"https://doi.org/10.1109/KST.2019.8687616",
+    "tapchi":"2019 11th International Conference on Knowledge and Smart Technology (KST)",
+    "tacgia":"Huu-Thanh Duong; Vinh Truong Hoang"
+},{
+    "nam1":2017
+},{
+    "tua":"LBP histogram selection based on sparse representation for color texture classification",
+    "doi":"https://doi.org/10.5220/0006128204760483",
+    "tapchi":"",
+    "tacgia":"V. Truong Hoang; A. Porebski; N. Vandenbroucke; D. Hamad"
+},{
+    "tua":"Low-quality medical image contours based on nonsubsampled contourlet domain",
+    "doi":"https://doi.org/10.1007/978-981-10-4361-1_58",
+    "tapchi":"Proceedings of the 6th International Conference on the Development of Biomedical Engineering",
+    "tacgia":"Vo Thi Hong Tuyet; Nguyen Thanh Binh"
+},{
+    "nam1":2016
+},{
+    "tua":"LBP Parameter Tuning For Texture Analysis Of Lace Images",
+    "doi":"https://doi.org/10.1109/IPAS.2016.7880063",
+    "tapchi":"Second International Conference On Image Processing And Applications (IEEE-IPAS'16)",
+    "tacgia":"V. Truong Hoang; A. Porebski; N. Vandenbroucke; D. Hamad"
+},{
+    "tua":"Edge detection in low-quality medical images based on Augmented Lagrangian Method and B-spline",
+    "doi":"https://doi.org/10.1007/978-981-13-5859-3_79",
+    "tapchi":"Proceedings of The International Conference on Nature of Computation and Communication 2016",
+    "tacgia":"Vo Thi Hong Tuyet; Nguyen Thanh Binh"
+},{
+    "tua":"Active contour based on curvelet domain in medical images",
+    "doi":"https://doi.org/10.1007/978-3-319-46909-6_29",
+    "tapchi":"Proceedings of The International Conference on Nature of Computation and Communication 2016",
+    "tacgia":"Vo Thi Hong Tuyet"
+},{
+    "tua":"The combination of adaptive filters to improve the quality of medical images in new wavelet domain",
+    "doi":"https://doi.org/10.4018/978-1-5225-0140-4.ch003",
+    "tapchi":"chapter 3 in book: Classification and Clustering in Biomedical Signal Processing",
+    "tacgia":"Nguyen Thanh Binh; Vo Thi Hong Tuyet"
+}]

@@ -1,0 +1,58 @@
+main>div{
+    padding:10px 40px 10px 40px;
+    line-height: 30px;
+}
+main>.tieude,h1,h2{
+    text-align: center;
+}
+main>h2{
+    margin-bottom:0px;
+}
+table{
+    border-collapse: collapse;
+    width:100%;
+}
+table>tbody>tr>th,td{
+    border:1px solid black;
+}
+table>tbody>tr>td:first-child{
+    width:5%;
+    text-align: center;
+}
+table>tbody>tr>td:last-child{
+    width:20%;
+    text-align: center;
+}
+table>tbody>tr>td:nth-child(2){
+    width:30%;
+    text-align: center;
+}
+table.baoquocte>tbody>tr>td:nth-child(2){
+    width:15%;
+}
+table.baoquocte>tbody>tr>td:nth-child(3){
+    width:9%;
+    text-align: center;
+}
+table.TGCSVTD>tbody>tr>th:first-child{
+    width:10%;
+}
+table.TGCSVTD>tbody>tr>th:nth-child(2){
+    width:60%;
+}
+table.TGCSVTD img{
+    width:100%;
+}
+table.TGCSVTD>tbody>tr>td{
+    text-align: left;
+}
+table.TGCSVTD>tbody>tr>td>div{
+    font-weight: bold;
+}
+.dau{
+    vertical-align: top;
+}
+td>div{
+    padding:10px;
+}
+

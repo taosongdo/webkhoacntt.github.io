@@ -1,0 +1,43 @@
+main div,h2,h3{
+    padding:5px 40px 5px 40px;
+}
+h2{
+    margin:15px 0px 0px 0px;
+    color: blue;
+}
+h3{
+    margin:5px 0px 0px 0px;
+    color:darkblue;
+}
+h1{
+    text-align: center;
+    color:red;
+}
+ul{
+    list-style-type: none;
+}
+.tinnho{
+    list-style-type: disc;
+}
+.tinnho>li>div{
+    padding:0px;
+}
+.tinnho{
+    margin-left:80px;
+}
+.last{
+    text-align: center;
+}
+main{
+    display:flex;
+    justify-content: center;
+    line-height:30px ;
+    flex-wrap: wrap;
+}
+main>div{
+    background-color: #f4fafd;
+    border:1px solid lightblue;
+    width:90%;
+    border-radius: 20px;
+    margin-top: 20px;
+}

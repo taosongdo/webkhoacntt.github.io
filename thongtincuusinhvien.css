@@ -1,0 +1,33 @@
+
+main>div{
+    width:90%;
+    margin:0 auto;
+    background-color: #f4fafd;
+    border:1px solid lightblue;
+    border-radius: 10px;
+}
+main>div>h1{
+    text-align: center;
+    color:red
+}
+main>div{
+    padding:10px
+}
+main>div>div{
+    line-height: 30px;
+}
+main>div>div.than>div{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+main>div>div.than>div>div.hinh{
+    width:40%;
+}
+main>div>div.than>div>div.hinh>img{
+    width:100%;
+}
+main>div>div.than>div>div.tt{
+    width:59%;
+}

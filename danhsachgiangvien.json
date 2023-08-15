@@ -1,0 +1,225 @@
+[{
+    "tieude":"LÃNH ĐẠO KHOA"
+},{
+    "hinh":"danhsachgiangvien(hinh1).jpg",
+    "ten":"LÊ XUÂN TRƯỜNG",
+    "chucdanh":"Trưởng khoa, Chủ tịch hội đồng TV khoa học Khoa.",
+    "hocvi":"Tiến sĩ - Giảng viên cao cấp",
+    "monhocgiangday":"Cấu trúc dữ liệu và Giải thuật, Lập trình hướng đối tượng, Toán rời rạc",
+    "email":" truong.lx@ou.edu.vn ",
+    "llkh":""
+},{
+    "hinh":"danhsachgiangvien(hinh2).jpg",
+    "ten":"TRƯƠNG HOÀNG VINH",
+    "chucdanh":" Phó trưởng khoa, tổ trưởng bộ môn Xử lý ảnh và đồ họa",
+    "hocvi":"Tiến sĩ",
+    "monhocgiangday":"Toán rời rạc, Lập trình đồ họa, Phân tích dữ liệu",
+    "email":"vinh.th@ou.edu.vn",
+    "llkh":"http://it.ou.edu.vn/asset/ckfinder/userfiles/5/files/LLGiangVien/LL_THVinh.pdf"
+},{
+    "tieude":"CÁN BỘ VIÊN CHỨC"
+},{
+    "hinh":"danhsachgiangvien(hinh3).jpg",
+    "ten":"PHẠM HÙNG CẨM HUYÊN ANH",
+    "chucdanh":"Trợ lý giáo vụ",
+    "hocvi":"Cử nhân",
+    "monhocgiangday":"",
+    "email":"anh.phch@ou.edu.vn",
+    "llkh":""
+},{
+    "hinh":"danhsachgiangvien(hinh4).jpg",
+    "ten":"NGUYỄN TRUNG HẬU",
+    "chucdanh":"Trợ lý sinh viên",
+    "hocvi":"Cử nhân",
+    "monhocgiangday":"",
+    "email":"hau.nt@ou.edu.vn",
+    "llkh":""
+},{
+    "hinh":"danhsachgiangvien(hinh5).jpg",
+    "ten":"NGUYỄN VĂN BẢY",
+    "chucdanh":"Chuyên viên",
+    "hocvi":"Cử nhân",
+    "monhocgiangday":"",
+    "email":"bay.nv@ou.edu.vn",
+    "llkh":""
+},{
+    "tieude":"ĐỘI NGŨ GIẢNG VIÊN CƠ HỮU"
+},{
+    "hinh":"danhsachgiangvien(hinh6).jpg",
+    "ten":"NGUYỄN TIẾN ĐẠT",
+    "chucdanh":"Tổ trưởng bộ môn Hệ thống thông tin",
+    "hocvi":"Tiến sĩ",
+    "monhocgiangday":"Khai phá dữ liệu, Lập trình hướng đối tượng, Cơ sở lập trình",
+    "email":"http://dat.nt@ou.edu.vn",
+    "llkh":""
+},{
+    "hinh":"danhsachgiangvien(hinh7).jpg",
+    "ten":"PHAN TRẦN MINH KHUÊ",
+    "chucdanh":"Tổ Trưởng bộ môn Khoa học dữ liệu",
+    "hocvi":"Tiến sĩ",
+    "monhocgiangday":"Cơ sở lập trình, Kỹ thuật lập trình, Cấu trúc dữ liệu",
+    "email":"khue.ptm@ou.edu.vn",
+    "llkh":""
+},{
+    "hinh":"danhsachgiangvien(hinh8).jpg",
+    "ten":"PHAN ĐẠT PHÚC",
+    "chucdanh":"",
+    "hocvi":"Tiến sĩ",
+    "monhocgiangday":"Lập trình web, Lập trình đồ họa, Lập trình java.",
+    "email":"phandatphuc@yahoo.com",
+    "llkh":"http://it.ou.edu.vn/asset/ckfinder/userfiles/5/files/bieu_mau/LLKH_PhanDatPhuc.pdf"
+},{
+    "hinh":"danhsachgiangvien(hinh9).jpg",
+    "ten":"HUỲNH LƯƠNG HUY THÔNG",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Tiến sĩ",
+    "monhocgiangday":"",
+    "email":"huythong.tc@gmail.com",
+    "llkh":"http://it.ou.edu.vn/asset/ckfinder/userfiles/5/files/LLGiangVien/LLKH_NCTHANHddd%C4%91.pdf"
+},{
+    "hinh":"danhsachgiangvien(hinh10).jpg",
+    "ten":"HUR JUNG YOUN",
+    "chucdanh":"Giảng viên",
+    "hocvi":"GS.Tiến sĩ",
+    "monhocgiangday":"",
+    "email":"",
+    "llkh":""
+},{
+    "hinh":"danhsachgiangvien(hinh11).jpg",
+    "ten":"NGUYỄN THỊ MAI TRANG",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc sĩ",
+    "monhocgiangday":"Lập trình giao diện, Lập trình web.",
+    "email":"trang.ntm@ou.edu.vn",
+    "llkh":"http://it.ou.edu.vn/asset/ckfinder/userfiles/5/files/LLGiangVien/LL_MTrang.pdf"
+},{
+    "hinh":"danhsachgiangvien(hinh12).jpg",
+    "ten":"HỒ QUANG KHẢI",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc sĩ",
+    "monhocgiangday":"Phân tích thiết kế hệ thống, Quản trị hệ cơ sở dữ liệu.",
+    "email":"khai.hq@ou.edu.vn",
+    "llkh":"http://it.ou.edu.vn/asset/ckfinder/userfiles/5/files/LLGiangVien/LL_HQKhai.pdf"
+},{
+    "hinh":"danhsachgiangvien(hinh13).jpg",
+    "ten":"LƯU QUANG PHƯƠNG",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc sĩ",
+    "monhocgiangday":" Quản trị mạng, Lập trình mạng, An toàn bảo mật thông tin.",
+    "email":"tuan.lv@ou.edu.vn",
+    "llkh":"http://it.ou.edu.vn/asset/ckfinder/userfiles/5/files/LLGiangVien/LLKH_PHUONG_2017.pdf"
+},{
+    "hinh":"danhsachgiangvien(hinh14.2).jpg",
+    "ten":"VÕ THỊ KIM ANH",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc sĩ ",
+    "monhocgiangday":"Phát triển HTTT kinh tế, HT quản lý nguồn lực DN",
+    "email":"anh.vtk@ou.edu.vn",
+    "llkh":"http://it.ou.edu.vn/asset/ckfinder/userfiles/5/files/LLGiangVien/LL_KAnh.pdf"
+},{
+    "hinh":"danhsachgiangvien(hinh14).jpg",
+    "ten":"LÊ VIẾT TUẤN",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Nghiên cứu sinh",
+    "monhocgiangday":"Lập trình cơ sở dữ liệu, Lập trình trên thiết bị di động",
+    "email":"tuan.lv@ou.edu.vn",
+    "llkh":"http://it.ou.edu.vn/asset/ckfinder/userfiles/5/files/CV%20(tuanlv).pdf"
+},{
+    "hinh":"danhsachgiangvien(hinh15).jpg",
+    "ten":"DƯƠNG HỮU THÀNH",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc Sĩ",
+    "monhocgiangday":"Lập trình java",
+    "email":"thanh.dh@ou.edu.vn",
+    "llkh":"http://it.ou.edu.vn/asset/ckfinder/userfiles/5/files/bieu_mau/LLKH_Thanh.pdf"
+},{
+    "hinh":"danhsachgiangvien(hinh16).jpg",
+    "ten":"NGUYỄN THỊ PHƯƠNG TRANG",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Nghiên cứu sinh",
+    "monhocgiangday":"Lập trình giao diện, Cơ sở dữ liệu, Phân tích thiết kế",
+    "email":"trang.ntp@ou.edu.vn",
+    "llkh":"http://it.ou.edu.vn/asset/ckfinder/userfiles/5/files/LLGiangVien/Nguyen%20Thi%20Phuong%20Trang%20CVWeb.pdf"
+},{
+    "hinh":"danhsachgiangvien(hinh17).jpg",
+    "ten":"LÊ NGỌC HIẾU",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Nghiên cứu sinh",
+    "monhocgiangday":"Lập trình trên thiết bị di động, Lập trình cơ sở dữ liệu",
+    "email":"hieu.ln@ou.edu.vn",
+    "llkh":"http://it.ou.edu.vn/asset/ckfinder/userfiles/5/files/LLGiangVien/LLKH_NCTHANHdddd.pdf"
+},{
+    "hinh":"danhsachgiangvien(hinh18).jpg",
+    "ten":"HỒ VĂN THANH",
+    "chucdanh":" Giảng viên",
+    "hocvi":"Thạc sĩ",
+    "monhocgiangday":"Kiến trúc máy tính, Hệ điều hành",
+    "email":"thanh.hv@ou.edu.vn",
+    "llkh":""
+},{
+    "hinh":"danhsachgiangvien(hinh19).jpg",
+    "ten":"HỒ HƯỚNG THIÊN",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc sĩ",
+    "monhocgiangday":"Mạng máy tính, Quản trị mạng",
+    "email":"thien.hh@ou.edu.vn",
+    "llkh":""
+},{
+    "hinh":"danhsachgiangvien(hinh20).jpg",
+    "ten":"PHẠM CHÍ CÔNG",
+    "chucdanh":"Giảng viên",
+    "hocvi":" Thạc sĩ",
+    "monhocgiangday":"",
+    "email":"cong.pc@ou.edu.vn",
+    "llkh":""
+},{
+    "hinh":"danhsachgiangvien(hinh21).jpg",
+    "ten":"DƯƠNG THÁI BẢO",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc sĩ",
+    "monhocgiangday":"",
+    "email":"bao.dt@ou.edu.vn",
+    "llkh":""
+},{
+    "hinh":"danhsachgiangvien(hinh22).jpg",
+    "ten":"NGUYỄN THỊ NGỌC THANH",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc sĩ",
+    "monhocgiangday":"",
+    "email":"thanh.ntn@ou.edu.vn",
+    "llkh":""
+},{
+    "tieude":"ĐỘI NGŨ GIẢNG VIÊN THỈNH GIẢNG VIÊN"
+},{
+    "hinh":"danhsachgiangvien(hinh23).jpg",
+    "ten":"ĐỖ HOÀNG CƯỜNG",
+    "chucdanh":" Giảng viên chính",
+    "hocvi":"Thạc sĩ",
+    "monhocgiangday":"Mạng máy tính, Hệ quản trị CSDL. ",
+    "email":"dohoangcuong@gmail.com",
+    "llkh":"http://it.ou.edu.vn/asset/ckfinder/userfiles/5/files/bieu_mau/LLKH_T_Cuong.pdf"
+},{
+    "hinh":"danhsachgiangvien(hinh24).jpg",
+    "ten":"TÔ OAI HÙNG",
+    "chucdanh":"Giảng viên chính",
+    "hocvi":"Thạc sĩ",
+    "monhocgiangday":"Cơ sở lập trình, Kỹ thuật lập trình.",
+    "email":"hung.to@ou.edu.vn",
+    "llkh":"http://it.ou.edu.vn/asset/ckfinder/userfiles/5/files/LLGiangVien/LL_TOHung.pdf"
+},{
+    "hinh":"danhsachgiangvien(hinh25).jpg",
+    "ten":"LÊ HỒNG THÁI",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Thạc sĩ",
+    "monhocgiangday":"Kỹ thuật lập trình, Toán tin học.",
+    "email":"thai.lh@ou.edu.vn",
+    "llkh":"http://it.ou.edu.vn/asset/ckfinder/userfiles/5/files/LLGiangVien/LL_LHThai.pdf"
+},{
+    "hinh":"danhsachgiangvien(hinh26).jpg",
+    "ten":"VÕ THỊ HỒNG TUYẾT",
+    "chucdanh":"Giảng viên",
+    "hocvi":"Nghiên cứu sinh",
+    "monhocgiangday":"Cơ sở lập trình, Kỹ thuật lập trình",
+    "email":"tuyet.vth@ou.edu.vn",
+    "llkh":"http://it.ou.edu.vn/asset/ckfinder/userfiles/5/files/LLKH_Tuyet.pdf"
+}]

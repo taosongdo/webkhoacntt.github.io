@@ -1,0 +1,50 @@
+
+main>div{
+    width:90%;
+    margin:0 auto;
+    background-color: #f4fafd;
+    border:1px solid lightblue;
+    border-radius: 10px;
+}
+main > div > div.header{
+    text-align: center;
+}
+main > div > div.header>div{
+    margin:5px;
+}
+main > div > div.header>div:first-child{
+    margin-top:20px;
+}
+main > div > div.header > h1,div.header2,div.header3{
+    color:#055b75
+}
+main>div>div.header > h1{
+    margin-top: 50px;
+    margin-bottom:0px;
+}
+main>div>div.header>div.header2{
+    font-size: 17px;
+    margin:5px;
+    font-weight: bold;
+}
+main>div>div.header>div.header3{
+    font-size: 18px;
+    font-weight: bold;
+}
+main>div>div.body >ol>li>div.tieude{
+    font-weight:bold;
+    color:blue;
+}
+div.tieude{
+    font-weight:bold;
+    color:darkblue
+}
+main>div>div.body{
+    line-height: 25px;
+}
+main>div>div.body div{
+    margin:15px 0px;
+}
+main>div>div.body div{
+    margin:15px 0px;
+}

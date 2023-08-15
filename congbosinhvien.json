@@ -1,0 +1,97 @@
+[{
+    "nam1":2021
+},{
+    "tua":"Human ear-side detection based on YOLOv5 detector and deep neural networks",
+    "doi":"https://doi.org/10.1109/DASA53625.2021.9682306",
+    "tapchi":"2021 International Conference on Decision Aid Sciences and Application (DASA)",
+    "tacgia":"Huy Nguyen Quoc; Vinh Truong Hoang"
+},{
+    "tua":"An Approach for Multiple Choice Question Answering System",
+    "doi":"https://doi.org/10.1007/978-3-030-92942-8_7",
+    "tapchi":"International Conference on Nature of Computation and Communication ICTCC 2021: Nature of Computation and Communication pp 76–82",
+    "tacgia":"Dinh-Huy Vo, Anh-Khoa Do-Vo, Tram-Anh Nguyen-Thi, Huu-Thanh Duong"
+},{
+    "tua":"CNN Parameter Adjustment for Brain Tumor Classification",
+    "doi":"https://doi.org/10.1007/978-981-16-2008-9_1",
+    "tapchi":"Advances in Intelligent Systems and Computing: Applied Information Processing Systems pp 1–10",
+    "tacgia":"Toan Pham Ho & Vinh Truong Hoang"
+},{
+    "tua":"Unsupervised gender prediction based on deep facial features",
+    "doi":"https://doi.org/10.1109/ZINC52049.2021.9499250",
+    "tapchi":"2021 Zooming Innovation in Consumer Technologies Conference (ZINC)",
+    "tacgia":"Mai Tuong Vi; Le Thanh Dat; Vinh Truong Hoang; Tram-Anh Nguyen-Thi"
+},{
+    "tua":"A Revisit Histogram of Oriented Descriptor for Facial Color Image Classification Based on Fusion of Color Information",
+    "doi":"https://doi.org/10.1155/2021/6296505",
+    "tapchi":"Journal of Sensors",
+    "tacgia":"Huy Nguyen-Quoc; Vinh Truong Hoang"
+},{
+    "tua":"Real-Time Human Ear Detection Based on the Joint of Yolo and RetinaFace",
+    "doi":"https://doi.org/10.1155/2021/7918165",
+    "tapchi":"International Conference on the Development of Biomedical Engineering in Vietnam BME 2020: 8th International Conference on the Development of Biomedical Engineering in Vietnam pp 717–732",
+    "tacgia":"Huy Nguyen-Quoc; Vinh Truong Hoang"
+},{
+    "tua":"Using Feature Selection Based on Multi-view for Rice Seed Images Classification",
+    "doi":"https://doi.org/10.1007/978-981-15-7527-3_61",
+    "tapchi":"Research in Intelligent and Computing in Engineering pp 651–661",
+    "tacgia":"D. Lam Tran Tuan, V. Truong Hoang"
+},{
+    "nam1":2020
+},{
+    "tua":"VNPlant-200 – a public and large-scale of Vietnamese medicinal plant images dataset",
+    "doi":"https://doi.org/10.1007/978-3-030-49264-9_37",
+    "tapchi":"International Conference on Integrated Science ICIS 2020: Integrated Science in Digital Age 2020 pp 406–411",
+    "tacgia":"T. Nguyen Quoc, V. Truong Hoang"
+},{
+    "tua":"A comparative study of color spaces for cloud images recognition based on data fusion",
+    "doi":"https://doi.org/10.1007/978-3-030-49264-9_34",
+    "tapchi":"International Conference on Integrated Science ICIS 2020: Integrated Science in Digital Age 2020 pp 375–382",
+    "tacgia":"H. Duong Thi Hong, V. Truong Hoang"
+},{
+    "nam1":2019
+},{
+    "tua":"Early and late features fusion for kinship verification based on constraint selection",
+    "doi":"https://doi.org/10.1109/APCC47188.2019.9026554",
+    "tapchi":"2019 25th Asia-Pacific Conference on Communications (APCC)",
+    "tacgia":"Tien Nguyen Van; Vinh Truong Hoang"
+},{
+    "tua":"Fusing of Deep Learning, Transfer Learning and GAN for Breast Cancer Histopathological Image Classification",
+    "doi":" https://doi.org/10.1007/978-3-030-38364-0_23",
+    "tapchi":"International Conference on Computer Science, Applied Mathematics and Applications ICCSAMA 2019: Advanced Computational Methods for Knowledge Engineering pp 255–266",
+    "tacgia":"Mai Bui Huynh Thuy & Vinh Truong Hoang"
+},{
+    "tua":"One-Document Training for Vietnamese Sentiment Analysis",
+    "doi":"https://doi.org/10.1007/978-3-030-34980-6_21",
+    "tapchi":"International Conference on Computational Data and Social Networks CSoNet 2019: Computational Data and Social Networks pp 189–200",
+    "tacgia":"D.-K. Nguyen-Nhat and H.-T. Duong"
+},{
+    "tua":"Rice seed image classification based on HOG descriptor with missing values imputation",
+    "doi":"https://doi.org/10.1109/ICT.2019.8798781",
+    "tapchi":"2019 26th International Conference on Telecommunications (ICT)",
+    "tacgia":"T. Nguyen Van, V. Truong Hoang"
+},{
+    "tua":"Kinship Verification based on Local Binary Pattern features coding in different color space",
+    "doi":"https://doi.org/10.1109/ICT.2019.8798781",
+    "tapchi":"2019 26th International Conference on Telecommunications (ICT)",
+    "tacgia":"T. Nguyen Van, V. Truong Hoang"
+},{
+    "tua":"Feature fusion by using LBP, HOG, GIST descriptors and Canonical Correlation Analysis for face recognition",
+    "doi":"https://doi.org/10.1109/ICT.2019.8798816",
+    "tapchi":"2019 26th International Conference on Telecommunications (ICT)",
+    "tacgia":"H. Ta Minh Nhat, V. Truong Hoang"
+},{
+    "tua":"Feeding Convolutional Neural Network by hand-crafted features based on Enhanced Neighbor-Center Different Image for color texture classification",
+    "doi":"https://doi.org/10.1109/MAPR.2019.8743528",
+    "tapchi":"2019 International Conference on Multimedia Analysis and Pattern Recognition (MAPR)",
+    "tacgia":"D. Phan Van Hoai, V. Truong Hoang"
+},{
+    "tua":"LBP-based edge information for color texture classification",
+    "doi":"https://doi.org/10.1007/978-3-030-30149-1_19",
+    "tapchi":"5th EAI International Conference on Industrial Networks and Intelligent Systems (Springer-INISCOM'19)",
+    "tacgia":"D. Phan Van Hoai, V. Truong Hoang"
+},{
+    "tua":"A Vietnamese sentiment analysis system based on multiple classifiers with enhancing lexicon features",
+    "doi":" http://doi.org/10.1007/978-3-030-30149-1_20",
+    "tapchi":"5th EAI International Conference on Industrial Networks and Intelligent Systems (Springer-INISCOM'19)",
+    "tacgia":"T. Nguyen Thi Bich, T. Duong Huu"
+}]
